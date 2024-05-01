@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+Demonstrate the ability to apply design patterns effectively to enhance the flexibility, scalability, and maintainability of software systems.
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **120 min**
 
 ## Content
 
@@ -20,8 +20,6 @@ Estimated time to complete core lab exercise: **tktk min**
 - [Exercise](./exercise/README.md)
 
 ## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
