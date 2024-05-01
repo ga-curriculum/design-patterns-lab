@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/design-patterns-lab.png)
 
 ## About
 
@@ -6,7 +6,9 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 ## Prerequisites
 
-- tktk
+- Singleton Design Pattern Module
+- Factory and Abstract Factory Design Pattern Module
+- Builder Design Pattern Module
 
 ## Time to complete
 
