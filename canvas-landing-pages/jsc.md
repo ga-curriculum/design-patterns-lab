@@ -4,9 +4,6 @@
 
 Demonstrate the ability to apply design patterns effectively to enhance the flexibility, scalability, and maintainability of software systems.
 
-## Time to complete
-
-Estimated time to complete core lab exercise: **120 min**
 
 ## Content
 
