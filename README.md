@@ -1,5 +1,7 @@
 # ![[tktk Module Name]](./assets/design-patterns-lab.png)
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/java-design-patterns-lab.git) repo instead.
+
 ## About
 
 Demonstrate the ability to apply design patterns effectively to enhance the flexibility, scalability, and maintainability of software systems.
