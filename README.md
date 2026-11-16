@@ -1,6 +1,6 @@
 # ![[tktk Module Name]](./assets/design-patterns-lab.png)
 
-# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/java-design-patterns-lab.git) repo instead.
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://github.com/ga-curriculum/java-design-patterns-lab-v2.git) repo instead.
 
 ## About
 
@@ -23,7 +23,7 @@ Estimated time to complete core lab exercise: **120 min**
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/design-patterns-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/java-design-patterns-lab-solution)
 
 ## Internal resources
 
@@ -31,4 +31,4 @@ Estimated time to complete core lab exercise: **120 min**
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
